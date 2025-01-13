@@ -1,4 +1,4 @@
- [![MasterHead](https://assets.bacancytechnology.com/main-boot-5/images/unity-dev/banner.jpg?v-1)
+![MasterHead](https://assets.bacancytechnology.com/main-boot-5/images/unity-dev/banner.jpg?v-1)
 <h1 align="center">Hi 👋, I'm Eyüp Sultan Güzel</h1>
 <h3 align="center">Tutkulu ve acemi bir Game-Developer🎮</h3>
 

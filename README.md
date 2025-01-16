@@ -1,6 +1,5 @@
-![Header](/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Eyüp Sultan Güzel</h1>
-<h3 align="center">Tutkulu ve acemi bir Game Developer🎮</h3>
+<h3 align="center">A passionate game developer🎮</h3>
 
 
 <h3 align="left">Connect with me:</h3>
